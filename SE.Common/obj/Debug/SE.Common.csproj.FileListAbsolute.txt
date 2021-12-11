@@ -1,0 +1,6 @@
+D:\Project\SECM\SE.Common\bin\Debug\SE.Common.dll
+D:\Project\SECM\SE.Common\bin\Debug\SE.Common.pdb
+D:\Project\SECM\SE.Common\obj\Debug\SE.Common.csproj.AssemblyReference.cache
+D:\Project\SECM\SE.Common\obj\Debug\SE.Common.csproj.CoreCompileInputs.cache
+D:\Project\SECM\SE.Common\obj\Debug\SE.Common.dll
+D:\Project\SECM\SE.Common\obj\Debug\SE.Common.pdb

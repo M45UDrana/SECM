@@ -1,0 +1,9 @@
+D:\Project\SECM\SECM.BL\bin\Debug\SECM.BL.dll
+D:\Project\SECM\SECM.BL\bin\Debug\SECM.BL.pdb
+D:\Project\SECM\SECM.BL\obj\Debug\SECM.BL.csproj.AssemblyReference.cache
+D:\Project\SECM\SECM.BL\obj\Debug\SECM.BL.csproj.CoreCompileInputs.cache
+D:\Project\SECM\SECM.BL\obj\Debug\SECM.BL.dll
+D:\Project\SECM\SECM.BL\obj\Debug\SECM.BL.pdb
+D:\Project\SECM\SECM.BL\bin\Debug\SE.Common.dll
+D:\Project\SECM\SECM.BL\bin\Debug\SE.Common.pdb
+D:\Project\SECM\SECM.BL\obj\Debug\SECM.BL.csproj.CopyComplete
